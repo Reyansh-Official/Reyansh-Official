@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a production-grade algorithmic trading backtesting platform<br>Preparing for the AWS Solutions Architect Exam
+Aspiring SWE and Backend Developer<br>I'm currently working on a production-grade algorithmic trading backtesting platform<br>Preparing for the AWS Solutions Architect Exam
 
 
 ## 🌐 Socials:
